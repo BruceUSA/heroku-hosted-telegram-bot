@@ -23,7 +23,7 @@
 import os
 import telebot
 
-token = os.environ['TELEGRAM_TOKEN']
+token = os.environ['7541039582:AAEOR0I5_Xu4XfKruKX-Q2oBCBHx7QJi5QM']
 
 bot = telebot.TeleBot(token)
 user_step = {}
